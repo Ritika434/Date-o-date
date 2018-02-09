@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1494497989 source:c:\users\user\desktop\spoj_my_solutions\adddays.c
+
+1494493461 source:c:\users\user\desktop\spoj_my_solutions\addmonths.c
+
+1494492784 source:c:\users\user\desktop\spoj_my_solutions\addyears.c
+
+1494489889 source:c:\users\user\desktop\spoj_my_solutions\cmpdate.c
+
+1494488873 source:c:\users\user\desktop\spoj_my_solutions\datefmt.c
+
+1494498000 source:c:\users\user\desktop\spoj_my_solutions\diffdays.c
+
+1494492245 source:c:\users\user\desktop\spoj_my_solutions\diffymd.c
+
+1494497971 source:c:\users\user\desktop\spoj_my_solutions\julian.c
+
+1494488824 source:c:\users\user\desktop\spoj_my_solutions\leap.c
+
+1494496775 source:c:\users\user\desktop\spoj_my_solutions\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dtmanip.h"
+
+1494487262 c:\users\user\desktop\spoj_my_solutions\dtmanip.h
+
+1494498014 source:c:\users\user\desktop\spoj_my_solutions\subdays.c
+
+1494493673 source:c:\users\user\desktop\spoj_my_solutions\submonths.c
+
+1494493098 source:c:\users\user\desktop\spoj_my_solutions\subyears.c
+
+1494488787 source:c:\users\user\desktop\spoj_my_solutions\valid.c
+
+1494489613 source:c:\users\user\desktop\spoj_my_solutions\weekday.c
+	<string.h>
+

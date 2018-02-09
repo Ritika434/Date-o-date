@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DATE" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DATE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../spoj_my_solutions/Adddays.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Addmonths.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Addyears.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Cmpdate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Datefmt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Diffdays.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Diffymd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Julian.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Leap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Subdays.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Submonths.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Subyears.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Valid.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/Weekday.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../spoj_my_solutions/dtmanip.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
